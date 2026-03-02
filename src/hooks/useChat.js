@@ -102,7 +102,7 @@ export const useChat = () => {
 
     } catch (error) {
       console.error("API Error:", error);
-      addMessage("❌ Sorry, I encountered an error. Please try again or check your spelling.", true);
+      addMessage("❌ Sorry, Medicine not found in our database. Please check the spelling or try again.", true);
     } finally {
       setIsTyping(false);
     }

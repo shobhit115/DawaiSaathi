@@ -79,7 +79,7 @@ const Chat = () => {
               </>
             )}
           </div>
-          <button className="text-slate-400 hover:text-slate-600 p-2"><MoreVertical size={20} /></button>
+          {/* <button className="text-slate-400 hover:text-slate-600 p-2"><MoreVertical size={20} /></button> */}
         </div>
       </header>
 

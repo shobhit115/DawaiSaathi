@@ -79,7 +79,7 @@ const Home = () => {
 
         {/* -------- UPDATED SECTION: Frequently Asked Questions (LLM) -------- */}
         <div className="mt-12 max-w-2xl mx-auto">
-          <h3 className="text-lg font-semibold text-slate-700 mb-4">Frequently Asked Questions (Backend integration in progress)</h3>
+          <h3 className="text-lg font-semibold text-slate-700 mb-4">Frequently Asked Questions (Available in a future update)</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {faqQuestions.map((question, idx) => (
               <RecommendationCard 
