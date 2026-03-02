@@ -17,9 +17,15 @@ const Home = () => {
     "Dolo 650",
     "Aciloc 300",
     "Paracetamol 500mg",
-    "Spasril tablet",
-    "Azithromycin",
-    "Cetirizine"
+    "FORACORT",
+    "THYRONORM 25MCG",
+    "Diclofenac",
+    "Spasril Tablet",
+    "Nozia Tablet",
+    "AUGMENTIN 625",
+    "GLYCOMETGP",
+    "AZITHRAL 500",
+    "Duphalac"
   ];
 
   // 🔥 2. Real Questions List -> Triggers 'chat' (LLM API)
